@@ -1,2 +1,2 @@
-# Coursera
-Miscellaneous code from courses on Coursera
+# Coursera-MachineLearning
+Code from exercises of Machine Learning course on Coursera.
